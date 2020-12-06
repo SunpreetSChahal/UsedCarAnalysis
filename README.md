@@ -1,5 +1,6 @@
 ## Used Cars Analysis
+This is a large dataset that contains information on ~30000+ vehicles; brands, colours, body type, production year and more.
+For the process of data cleaning, analysis and visualisation I used Python through Jupytper to make my code and analysis easy to read and follow. 
 
-Within this project I use this dataset ato present my current skills within python, primarily; pandas and matplotlib.
-
-To complete the analysis I used Jupyter, as it's my preferred notebook of choice.
+I decided not to include an Excel file for this dataset, as using Microsoft Excel for large datasets isn't as efficient as Python for data cleaning and analysis.
+For other projects, I may have included an Excel file to project my skills with various tools, where using Excel is appropriate - for the size of the data. 
